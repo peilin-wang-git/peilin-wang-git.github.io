@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Learning Resources
-category: resources
-permalink: /resources
+title: Paper & Research Projects
+category: RP
+permalink: /RP
 ---
