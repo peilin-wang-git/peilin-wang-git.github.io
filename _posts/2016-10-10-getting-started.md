@@ -2,8 +2,8 @@
 layout: post
 title: "Getting Started"
 author: "Peilin Wang"
-categories: RP,CV
-tags: [RP,CV,documentation]
+categories: CV
+tags: [CV,documentation]
 image: city-1.jpg
 ---
 
