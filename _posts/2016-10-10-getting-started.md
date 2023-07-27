@@ -3,7 +3,7 @@ layout: post
 title: "Getting Started"
 author: "Peilin Wang"
 categories: CV
-tags: [CV,RP,documentation]
+tags: [RP,CV,documentation]
 image: city-1.jpg
 ---
 
