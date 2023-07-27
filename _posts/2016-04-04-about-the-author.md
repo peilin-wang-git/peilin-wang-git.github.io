@@ -3,7 +3,7 @@ layout: post
 title: "About the Author"
 author: "Peilin Wang"
 categories: contact
-tags: [sample]
+tags: [contact]
 image: cuba-2.jpg
 ---
 
