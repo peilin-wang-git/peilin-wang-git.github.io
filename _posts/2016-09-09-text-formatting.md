@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+author: "Peilin Wang"
+categories: RI
+tags: [RI]
 image: arctic-1.jpg
 ---
 

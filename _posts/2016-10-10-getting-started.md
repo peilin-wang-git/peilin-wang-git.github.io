@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Getting Started"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+author: "Peilin Wang"
+categories: CV
+tags: [CV,documentation]
 image: city-1.jpg
 ---
 
