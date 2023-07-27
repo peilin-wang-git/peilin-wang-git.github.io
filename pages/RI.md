@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Research Interest
-category: Interest
+category: RI
 permalink: /RI
 ---
