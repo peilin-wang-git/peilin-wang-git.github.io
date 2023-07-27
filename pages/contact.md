@@ -1,7 +1,8 @@
 ---
-# layout: page
-layout: category
-RP,title: Contact
+layout: page
+# layout: category
+title: Contact
+category: contact
 permalink: /contact
 ---
 <!-- 
