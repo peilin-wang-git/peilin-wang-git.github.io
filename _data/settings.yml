@@ -19,7 +19,7 @@ menu:
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 # - {icon: 'xhs', link:    'https://www.xiaohongshu.com/user/profile/633718f6000000001802b6d1'}
-- {icon: 'wechat', url: 'wechat'}
+- {icon: 'wechat', url: 'https://github.com/peilin-wang-git/peilin-wang-git.github.io/blob/main/assets/img/wechat.jpg'}
 - {icon: 'github', link:  'https://github.com/peilin-wang-git'}
 - {icon: 'envelope', link:   'wangpeilin9857@gmail.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
