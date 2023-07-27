@@ -1,78 +1,46 @@
 ---
 layout: post
-title: "Getting Started"
+title: "About Me"
 author: "Peilin Wang"
 categories: CV
 tags: [CV,documentation]
-image: city-1.jpg
+image: cv-1.jpg
 ---
 
-# 个人简历
+# Peilin Wang
 
-## 基本信息
+## About Me
 
-- **姓名：** John Doe
-- **邮箱：** john.doe@example.com
-- **电话：** (123) 456-7890
-- **GitHub：** [github.com/johndoe](https://github.com/johndoe)
+I'm a highly motivated and passionate PhD student at the Hong Kong Polytechnic University, under the supervision of Prof. Li Tian and Prof. Cai Jing. I'm dedicated to my research and eager to contribute to the academic community with their guidance and support. 
 
-## 教育背景
+My research focus is mainly on MRI-guided precision radiotherapy. Through this area of study, I aim to utilize magnetic resonance imaging (MRI) technology to enhance the accuracy and effectiveness of radiation therapy. By incorporating MRI data into the treatment planning process, I seek to improve the targeting and delivery of radiation to tumors, minimizing damage to surrounding healthy tissues and maximizing treatment outcomes. 
 
-### 学士学位
+In addition to that, I have a keen interest in deep learning, multi-objective optimization, high-energy physics data analysis, and accelerator optimization. I've also had the opportunity to explore these areas through some hands-on experimentation.
 
-**学校名称：** XYZ 大学  
-**专业：** 计算机科学  
-**学习时间：** 20XX - 20XX
 
-## 工作经历
+## Education
 
-### 软件工程师 - ABC 公司
+### Bachelor of Artificial Intelligence and Automation
 
-**工作时间：** 20XX - 至今
+- **University:** Huazhong University of Science and Technology
+- **Duration:** 2016 - 2020
 
-- 负责开发和维护公司产品的功能模块。
-- 参与团队讨论，提出技术方案并解决问题。
-- 使用技术工具和编程语言如 Python、JavaScript、React 等。
+### Master of Physics
 
-### 实习生 - XYZ 公司
+- **University:** Wuhan University
+- **Duration:** 2020 - 2023
 
-**实习时间：** 20XX
 
-- 在团队协助下开发了一款移动应用原型。
-- 学习了敏捷开发和团队协作的方法。
+## Work Experience
 
-## 技能
+### Intern - Huahuijian
 
-- 编程语言：Python, JavaScript, HTML, CSS
-- 前端开发：React, Vue.js
-- 后端开发：Django, Node.js
-- 版本控制：Git
+**Duration:** 2023.6 - 2023.8
 
-## 项目
+- Algorithm improvement for project: State-of-art algorithms for predicting diopters based on fundus dataset.
+- Data preparation for project: Artificial Intelligence-generated content for medical images.
 
-### 个人网站
 
-**项目链接：** [johndoe.com](https://johndoe.com)
+## Papers and Projects
 
-- 使用 React 搭建个人网站，展示个人信息和作品集。
-- 使用 HTML/CSS 进行页面布局和样式设计。
-- 部署在 GitHub Pages 上。
-
-### 在线笔记应用
-
-**项目链接：** [notetaker-app.com](https://notetaker-app.com)
-
-- 使用 Vue.js 和 Node.js 构建一个简单的在线笔记应用。
-- 支持用户创建、编辑和删除笔记。
-- 使用 MongoDB 存储用户数据。
-
-## 荣誉与奖项
-
-- XYZ 大学优秀毕业生奖学金（20XX）
-- ABC 公司年度最佳员工（20XX）
-
-## 兴趣爱好
-
-- 旅行
-- 摄影
-- 阅读
+My research experience is featured in the "Paper & Research Projects" section. Feel free to take a look if you're interested! I'd love to hear your thoughts and any feedback you might have. Sharing research findings is a great way to foster collaboration and exchange ideas within the academic community. Thanks for your interest, and I'm excited to have you explore my work!
