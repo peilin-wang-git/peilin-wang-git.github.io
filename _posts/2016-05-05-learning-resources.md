@@ -2,8 +2,8 @@
 layout: post
 title: "Learning Resources"
 author: "Peilin Wang"
-categories: RP
-tags: [RP,RI]
+# categories: RP
+# tags: [RP,RI]
 image: arctic-2.jpg
 ---
 
