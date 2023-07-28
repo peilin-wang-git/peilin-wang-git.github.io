@@ -17,7 +17,7 @@ My research focus is mainly on MRI-guided precision radiotherapy. Through this a
 
 In addition to that, I have a keen interest in deep learning, multi-objective optimization, high-energy physics data analysis, and accelerator optimization. I've also had the opportunity to explore these areas through some hands-on experimentation.
 
-##
+## 
 ## Education
 
 ### Bachelor of Artificial Intelligence and Automation
@@ -30,7 +30,7 @@ In addition to that, I have a keen interest in deep learning, multi-objective op
 - **University:** Wuhan University
 - **Duration:** 2020 - 2023
 
-##
+## 
 ## Work Experience
 
 ### Intern - Huahuijian
@@ -40,7 +40,7 @@ In addition to that, I have a keen interest in deep learning, multi-objective op
 - Algorithm improvement for project: State-of-art algorithms for predicting diopters based on fundus dataset.
 - Data preparation for project: Artificial Intelligence-generated content for medical images.
 
-##
+## 
 ## Papers and Projects
 
 My research experience is featured in the "Paper & Research Projects" section. Feel free to take a look if you're interested! I'd love to hear your thoughts and any feedback you might have. Sharing research findings is a great way to foster collaboration and exchange ideas within the academic community. Thanks for your interest, and I'm excited to have you explore my work!
