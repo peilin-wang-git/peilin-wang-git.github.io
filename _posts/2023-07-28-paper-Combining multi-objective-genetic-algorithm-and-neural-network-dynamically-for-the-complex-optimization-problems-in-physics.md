@@ -24,7 +24,7 @@ Radio frequency cavity is designed by this algorithm as an example, in which fou
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper1-2.jpg)
 Then the individuals that have the similar frequency of the HOM are signaled and picked up from different algorithms. The indicators of these individuals are shown in the table below, in which the advantage of DNMOGA can be discovered. The $$R/Q_{FM}$$ is improved by about 24% and 14% compared with using the NBMOGA and NSGA-II, while the $$Ra_{FM}$$ is increased by approximately 55% and 22% respectively. Besides, only the $$R/Q_{HOM}$$ that comes from the individual of DNOMGA tends to zero, which is beneficial for further analysis of HOM. The geometric parameters of the individual from DNMOGA are shown in the last sub-figure above.
 
-Algorithm             | $$R/Q_{FM} [Ω]$$       | $$Ra_{FM} [MΩ]$$       | $$f_{HOM} [MHz]$$     | $$R/Q_{HOM} [Ω]$$
+Algorithm             | $$R/Q_{FM} [Ω]$$      | $$Ra_{FM} [MΩ]$$      | $$f_{HOM} [MHz]$$     | $$R/Q_{HOM} [Ω]$$
 :-------------------: | :-------------------: | :-------------------: | :-------------------: | :--------------------:
 DNMOGA                | 324.72                | 12.15                 | 826.75                | 8.28E-7
 NBMOGA                | 261.09                | 7.82                  | 806.46                | 9.46
