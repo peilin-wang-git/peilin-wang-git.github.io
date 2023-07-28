@@ -2,8 +2,8 @@
 layout: post
 title: "Text Formatting"
 author: "Peilin Wang"
-# categories: RI
-# tags: [RI]
+categories: RI
+tags: [RI]
 image: arctic-1.jpg
 ---
 
