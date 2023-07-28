@@ -1,6 +1,6 @@
 ---
-# layout: page
-layout: category
+layout: page
+# layout: category
 title: Contact
 category: contact
 permalink: /contact
