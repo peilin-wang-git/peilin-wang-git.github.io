@@ -27,11 +27,18 @@ DNMOGA                | 324.72                | 12.15                 | 826.75  
 NBMOGA                | 261.09                | 7.82                  | 806.46                | 9.46
 NSGA-II               | 284.54                | 9.93                  | 800.56                | 18.58 -->
 
-Algorithm | R/Q_FM [Ω] | Ra_FM [MΩ] | f_HOM [MHz] | R/QHOM [Ω]
+<!-- Algorithm | R/Q_FM [Ω] | Ra_FM [MΩ] | f_HOM [MHz] | R/QHOM [Ω]
 --- | :---: | :---: | ---: | ---:
 DNMOGA | 324.72 | 12.15 | 826.75 | 8.28E-7
 NBMOGA | 261.09 | 7.82 | 806.46 | 9.46
-NSGA-II | 284.54 | 9.93 | 800.56 | 18.58
+NSGA-II | 284.54 | 9.93 | 800.56 | 18.58 -->
+
+Title 1               | Title 2               | Title 3               | Title 4
+--------------------- | :-------------------: | :-------------------- | --------------------:
+lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
 
 In general, DNMOGA is instructive for dealing with the complex situations of strict constraints and preference in multi-objective optimization problems in physics.
 
