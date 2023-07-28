@@ -4,6 +4,7 @@ title: "Congratuations! My paper has been published in Scientific Reports on 17 
 author: "Peilin Wang"
 categories: RP
 tags: [RP,documentation]
+image: paper1-1.jpg
 ---
 
 # Paper: Combining multi-objective genetic algorithm and neural network dynamically for the complex optimization problems in physics
@@ -16,8 +17,7 @@ This work proposed a new multi-objective optimization algorithm which is call DN
 ## Abstract
 
 Multi-objective genetic algorithms (MOGAs) whose advantages lie in optimizing several objectives simultaneously and obtaining a set of competitive individuals are widely used in physical research nowadays. By estimating more individuals, neural network (NN) has been tentatively combined into MOGAs in recent years to further improve their performance. However, because of the unsatisfied size of training set which is caused by the computationally complex evaluations and limited computing resources, these combinations do not suit such scenarios that have equality constraints or other strict constraints. Here, the dynamically used NN-based MOGA (DNMOGA) is proposed for the first time. 
-The penalty operation which can be progressively rigorous over generations is used in this algorithm, as part of the fitness function to make individuals fulfill constraints gradually. Moreover, a new way to combine NN and MOGA is proposed, in which NN is included in an operator that coincides with the operators of mutation and crossover to produce a series of individuals, and these individuals will be further evaluated. The numbers of individuals that come from different operators are dynamically redistributed based on the performance of these operators in the previous generation. In addition, accessibility algorithm is introduced to solve the preference of the objectives in this work, without the extra reference points used in other algorithms to lead the nondominated front to approach these points. The flow chart of DNMOGA is shown here.
-![Profile Picture](paper1-1.jpg) 
+The penalty operation which can be progressively rigorous over generations is used in this algorithm, as part of the fitness function to make individuals fulfill constraints gradually. Moreover, a new way to combine NN and MOGA is proposed, in which NN is included in an operator that coincides with the operators of mutation and crossover to produce a series of individuals, and these individuals will be further evaluated. The numbers of individuals that come from different operators are dynamically redistributed based on the performance of these operators in the previous generation. In addition, accessibility algorithm is introduced to solve the preference of the objectives in this work, without the extra reference points used in other algorithms to lead the nondominated front to approach these points. The flow chart of DNMOGA is shown above.
 <br/>
 Radio frequency cavity is designed by this algorithm as an example, in which four objectives (R/Q_FM, Ra_FM, abs(f_HOM-f_FM), and R/Q_HOM) and an equality constraint (abs(f_BM-499.65 MHz) <= 0.05 MHz) are considered simultaneously. As a result, DNMOGA considerably improves both the number and competitiveness of the final feasible individuals, and shows the potential to completely replace the manual procession in this question. The nondominated fronts of different algorithms in the last generation are shown here.
 ![Profile Picture](paper1-2.jpg) 
