@@ -21,24 +21,12 @@ The penalty operation which can be progressively rigorous over generations is us
 Radio frequency cavity is designed by this algorithm as an example, in which four objectives (R/Q_FM, Ra_FM, abs(f_HOM-f_FM), and R/Q_HOM) and an equality constraint (abs(f_BM-499.65 MHz) <= 0.05 MHz) are considered simultaneously. As a result, DNMOGA considerably improves both the number and competitiveness of the final feasible individuals, and shows the potential to completely replace the manual procession in this question. The nondominated fronts of different algorithms in the last generation are shown here.
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/tree/main/assets/img/paper1-2.jpg) 
 Then the individuals that have the similar frequency of the HOM are signaled and picked up from different algorithms. The indicators of these individuals are shown in the table below, in which the advantage of DNMOGA can be discovered. The R/Q_FM is improved by about 24% and 14% compared with using the NBMOGA and NSGA-II, while the Ra FM is increased by approximately 55% and 22% respectively. Besides, only the R/Q_HOM that comes from the individual of DNOMGA tends to zero, which is beneficial for further analysis of HOM. The geometric parameters of the individual from DNMOGA are shown in the last sub-figure above.
-<!-- Algorithm             | R/Q_FM [Ω]            | Ra_FM [MΩ]            | f_HOM [MHz]           | R/QHOM [Ω]
---------------------- | :-------------------: | :-------------------- | --------------------: | --------------------:
+
+Algorithm             | R/Q_FM [Ω]            | Ra_FM [MΩ]            | f_HOM [MHz]           | R/QHOM [Ω]
+:-------------------: | :-------------------: | :-------------------: | :-------------------: | :--------------------:
 DNMOGA                | 324.72                | 12.15                 | 826.75                | 8.28E-7
 NBMOGA                | 261.09                | 7.82                  | 806.46                | 9.46
-NSGA-II               | 284.54                | 9.93                  | 800.56                | 18.58 -->
-
-<!-- Algorithm | R/Q_FM [Ω] | Ra_FM [MΩ] | f_HOM [MHz] | R/QHOM [Ω]
---- | :---: | :---: | ---: | ---:
-DNMOGA | 324.72 | 12.15 | 826.75 | 8.28E-7
-NBMOGA | 261.09 | 7.82 | 806.46 | 9.46
-NSGA-II | 284.54 | 9.93 | 800.56 | 18.58 -->
-
-Title 1               | Title 2               | Title 3               | Title 4
---------------------- | :-------------------: | :-------------------- | --------------------:
-lorem                 | lorem ipsum           | lorem ipsum dolor     | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
-lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit | lorem ipsum dolor sit
+NSGA-II               | 284.54                | 9.93                  | 800.56                | 18.58
 
 In general, DNMOGA is instructive for dealing with the complex situations of strict constraints and preference in multi-objective optimization problems in physics.
 
