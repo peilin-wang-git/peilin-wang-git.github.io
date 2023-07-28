@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratuations! My paper has been published in Scientific Reports on 17 January 2023"
+title: "Congratulations! My paper has been published in Scientific Reports on 17 January 2023"
 author: "Peilin Wang"
 categories: RP
 tags: [RP,documentation]
