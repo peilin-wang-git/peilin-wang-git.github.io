@@ -2,8 +2,8 @@
 layout: post
 title: "Paper Reading: UniverSeg Universal Medical Image Segmentation"
 author: "Peilin Wang"
-categories: RP
-tags: [RP,documentation]
+categories: RI
+tags: [RI,documentation]
 image: paper-reading-1-1.jpg
 ---
 
