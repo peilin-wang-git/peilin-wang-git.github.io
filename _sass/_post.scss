@@ -163,14 +163,14 @@
 .related-thumbnail {
   position: relative;
   width: $container-width;
-  height: 400px;
+  height: $container-width/3;
   overflow: hidden;
 }
 .related img {
   position: absolute;
   left: 50%;
   top: 50%;
-  height: 400px;
+  height: auto;
   width: $container-width;
   -webkit-transform: translate(-50%,-50%);
       -ms-transform: translate(-50%,-50%);
