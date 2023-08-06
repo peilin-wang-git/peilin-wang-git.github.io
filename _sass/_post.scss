@@ -186,7 +186,12 @@
     width: 60vw;
   }
 }
-@media (max-width: $tablet-width) {
+// @media (max-width: $tablet-width) {
+//   .related-thumbnail{
+//     width: 95vw;
+//   }
+// }
+@media (max-width: $container-width) {
   .related-thumbnail{
     width: 95vw;
   }
