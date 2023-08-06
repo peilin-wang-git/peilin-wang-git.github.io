@@ -16,7 +16,8 @@ This study introduces a novel medical image segmentation model named UniverSeg, 
 KEY WORDS: Meta learning / few-shot learning, UNet model.
 
 <br/>
-## What is meta learning / few-shot learning?
+## What is [meta learning / few-shot learning](https://www.youtube.com/watch?v=UkQ2FVpDxHg&list=PLvOO0btloRnuGl5OJM37a8c6auebn-rH2&index=1&t=3s)?
+As we said, few-shot learning
 
 ## What is UNet?
 
