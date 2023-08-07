@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paper Reading: UniverSeg Universal Medical Image Segmentation"
+title: "Paper Reading: Medical Large Model (1)"
 author: "Peilin Wang"
 categories: RI
 tags: [RI,documentation]
@@ -13,7 +13,7 @@ image: paper-reading-1-1.jpg
 
 This study introduces a novel medical image segmentation model named UniverSeg, designed to effectively segment images encompassing diverse anatomies, image modalities, or labels that extend beyond the boundaries of the training dataset. UniverSeg is rooted in the principles of meta learning / few-shot learning, thereby shifting the paradigm of training deep-learning models from merely 'learning to reflect' to the more sophisticated concept of 'learning to learn'. Concurrently, the architecture of UniverSeg draws inspiration from the UNet model, leveraging its structural attributes to enhance segmentation capabilities. By combining the advancements of meta and few-shot learning with the foundational framework of UNet, UniverSeg represents a pioneering approach in addressing the challenges of versatile medical image segmentation tasks.
 
-**KEY WORDS: Meta learning / few-shot learning, UNet model.**
+**KEY WORDS: Meta learning / few-shot learning, UNet model, large model.**
 
 ## What is [meta learning / few-shot learning](https://www.youtube.com/watch?v=UkQ2FVpDxHg&list=PLvOO0btloRnuGl5OJM37a8c6auebn-rH2&index=1&t=3s)?
 Comparing with the general training tasks, few-shot learning has two obvious characteratics. 
@@ -26,7 +26,7 @@ Specifically, let's say there are many animals with different labels, few-shot l
 In the training process, few-shot learning try to learn the relation between different images, which means the labels in validation set or test set are different from the labels in training set. This is why few-shot learning learns to learn. Besides, according to the number of images with same label in quary set, few-shot learning can be further violates as one-shot learning, two-shot learning, as so on. According to the number of labels in each quary set, few-shot learning can be further violates as one-k learning, two-k learning, as so on.
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/tree/main/assets/img/paper-reading-1-3.jpg)
 
-Secondly, the task of few-shot learning decides taht a little size of training set is supposed to be trained in few-shot learning.
+Secondly, the paradigm of few-shot learning decides that a little size of training set is supposed to be trained in few-shot learning.
 
 ## What is UNet?
 
