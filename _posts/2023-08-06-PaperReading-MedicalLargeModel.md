@@ -26,11 +26,15 @@ Specifically, let's say there are many animals with different labels, few-shot l
 In the training process, few-shot learning try to learn the relation between different images, which means the labels in validation set or test set are different from the labels in training set. This is why few-shot learning learns to learn. Besides, according to the number of images with same label in quary set, few-shot learning can be further violates as one-shot learning, two-shot learning, as so on. According to the number of labels in each quary set, few-shot learning can be further violates as one-k learning, two-k learning, as so on.
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/tree/main/assets/img/paper-reading-1-3.jpg)
 
-Secondly, the paradigm of few-shot learning decides that a little size of training set is supposed to be trained in few-shot learning.
+Secondly, the paradigm of few-shot learning couses that a small size of training set is supposed to be trained in few-shot learning.
+
+The training operation and related code can be obtained from [here](https://zhuanlan.zhihu.com/p/156830039).
 
 ## What is UNet?
+UNet is a grown model for medical images processing. Many blogs as well as websites have talk about it for many times.
 
 ## The main thought of UniverSeg
+Comparing with the general tasks in few-shot learning whose destination is calssification, UniverSeg handles a more complex situation segmenting images based on various anatomies. 
 
 ## Original
 
