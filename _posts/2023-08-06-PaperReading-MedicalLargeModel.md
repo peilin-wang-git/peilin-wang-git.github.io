@@ -13,6 +13,8 @@ image: paper-reading-1-1.jpg
 
 This study introduces a novel large medical image segmentation model named UniverSeg, designed to effectively segment images encompassing diverse anatomies, image modalities, or labels that extend beyond the boundaries of the training dataset. UniverSeg is rooted in the principles of meta learning / few-shot learning, thereby shifting the paradigm of training deep-learning models from merely 'learning to reflect' to the more sophisticated concept of 'learning to learn'. Concurrently, the architecture of UniverSeg draws inspiration from the UNet model, leveraging its structural attributes to enhance segmentation capabilities. By combining the advancements of meta and few-shot learning with the foundational framework of UNet, UniverSeg represents a pioneering approach in addressing the challenges of versatile medical image segmentation tasks.
 
+This might be the first large medical image used for segmentation, and the cross of few-shot learning and UNet make this work meaningful.
+
 **KEY WORDS: Meta learning / few-shot learning, UNet model, large model.**
 
 ## What is [meta learning / few-shot learning](https://www.youtube.com/watch?v=UkQ2FVpDxHg&list=PLvOO0btloRnuGl5OJM37a8c6auebn-rH2&index=1&t=3s)?
@@ -36,11 +38,10 @@ UNet is a grown model for medical images processing. Many blogs as well as websi
 ## The main thought of UniverSeg
 Comparing with the general tasks in few-shot learning whose destination is calssification, UniverSeg handles a more complex situation segmenting images based on various anatomies. 
 
-In order to transfer information between queary set and supporting set, CrossBlock is proposed, and Fig. 1(a) describes how this block works. The main loop of UniverSeg has been shown below.
+In order to transfer information between queary set and supporting set, CrossBlock is proposed, and Fig. 1(a) describes how this block works. The main loop of UniverSeg has been shown below. Some people have tried to understand this model in the retrospectives of augmentation, training, as well as designment. I think they have desribed it very [clearly](https://blog.csdn.net/qq_40943760/article/details/130493000).
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper-reading-1-4.jpg)
 
 ## Original
-
 To read the original paper, please [press here](https://universeg.csail.mit.edu/).
 
 
