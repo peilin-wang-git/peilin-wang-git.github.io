@@ -13,7 +13,7 @@ image: paper-reading-1-1.jpg
 
 This study introduces a novel large medical image segmentation model named UniverSeg, designed to effectively segment images encompassing diverse anatomies, image modalities, or labels that extend beyond the boundaries of the training dataset. UniverSeg is rooted in the principles of meta learning / few-shot learning, thereby shifting the paradigm of training deep-learning models from merely 'learning to reflect' to the more sophisticated concept of 'learning to learn'. Concurrently, the architecture of UniverSeg draws inspiration from the UNet model, leveraging its structural attributes to enhance segmentation capabilities. By combining the advancements of meta and few-shot learning with the foundational framework of UNet, UniverSeg represents a pioneering approach in addressing the challenges of versatile medical image segmentation tasks.
 
-This might be the first large medical model used for image segmentation, and the cross of few-shot learning and UNet make this work meaningful.
+This study possibly stands as a pioneering effort in utilizing a large-scale model for medical image segmentation. The amalgamation of few-shot learning and the established UNet architecture adds substantial value to this research. This synergy not only expands the horizons of medical image segmentation but also brings forth a new approach that holds significant implications. The integration of these two distinct methodologies contributes to the meaningfulness of this work, showcasing innovative thinking in the domain of medical image analysis.
 
 **KEY WORDS: Meta learning / few-shot learning, UNet model, large model.**
 
