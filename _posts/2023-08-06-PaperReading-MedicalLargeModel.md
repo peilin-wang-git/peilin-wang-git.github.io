@@ -36,7 +36,8 @@ UNet is a grown model for medical images processing. Many blogs as well as websi
 ## The main thought of UniverSeg
 Comparing with the general tasks in few-shot learning whose destination is calssification, UniverSeg handles a more complex situation segmenting images based on various anatomies. 
 
-In order to transfer information between queary set and supporting set, CrossBlock is proposed, and Fig. 1(a) describes how this block works. 
+In order to transfer information between queary set and supporting set, CrossBlock is proposed, and Fig. 1(a) describes how this block works. The main loop of UniverSeg has been shown below.
+![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper-reading-1-4.jpg)
 
 ## Original
 
