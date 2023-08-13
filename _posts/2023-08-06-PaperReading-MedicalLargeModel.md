@@ -40,8 +40,10 @@ Comparing with the general tasks in few-shot learning whose destination is calss
 
 In order to transfer information between queary set and supporting set, CrossBlock is proposed. In Fig. 1(b), how this block works is shown, as well as the equations in the original paper are corelated to the submodels in block. Besides, predictions from an ensemble of K independently sampled support sets are combined in this paper to reduce the dependence to the choice of the supporting set. Moreover,some people have tried to further describe this model in the retrospectives of augmentation, training, as well as designment, I think they have done very [well](https://blog.csdn.net/qq_40943760/article/details/130493000). The main loop of UniverSeg has been shown below. 
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper-reading-1-4.jpg)
-Then all the methods of augmentation have been shown below.
+All the methods of augmentation have been shown below.
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper-reading-1-5.jpg)
+The datasets collected and used in this paper has been shown below.
+![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper-reading-1-6.jpg)
 
 ## Original
 To read the original paper, please [press here](https://universeg.csail.mit.edu/).
