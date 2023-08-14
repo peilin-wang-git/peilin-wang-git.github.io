@@ -36,9 +36,11 @@ Finally, the training operation and related code can be obtained from [here](htt
 UNet is a grown  encoder-decoder structure with residual connections, which has good performance for medical images processing. Many blogs as well as websites have talk about it for many times.
 
 ## The main thought of UniverSeg
-Comparing with the general tasks in few-shot learning whose destination is calssification, UniverSeg handles a more complex situation segmenting images based on various anatomies. 
+In contrast to typical tasks in few-shot learning that predominantly focus on classification, UniverSeg is designed to address a considerably more intricate challenge: segmenting images containing diverse anatomical structures. 
 
-In order to transfer information between queary set and supporting set, CrossBlock is proposed. In Fig. 1(b), how this block works is shown, as well as the equations in the original paper are corelated to the submodels in block. Besides, predictions from an ensemble of K independently sampled support sets are combined in this paper to reduce the dependence to the choice of the supporting set. Moreover,some people have tried to further describe this model in the retrospectives of augmentation, training, as well as designment, I think they have done very [well](https://blog.csdn.net/qq_40943760/article/details/130493000). The main loop of UniverSeg has been shown below. 
+In order to transfer information between queary set and supporting set, CrossBlock is proposed. In Fig. 1(b), how this block works is shown, as well as the equations in the original paper are corelated to the submodels in block. Besides, predictions from an ensemble of K independently sampled support sets are combined in this paper to reduce the dependence to the choice of the supporting set. Moreover,some people have tried to further describe this model in the retrospectives of augmentation, training, as well as designment, I think they have done very [well](https://blog.csdn.net/qq_40943760/article/details/130493000). Note that all the compirations in this paper are among the UniverSeg and several other few-shot learning models, and UniverSeg has not performed better than the individual fully-trained networks (such as nnUNet) yet.
+
+The main loop of UniverSeg has been shown below. 
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper-reading-1-4.jpg)
 All the methods of augmentation have been shown below.
 ![Profile Picture](https://github.com/peilin-wang-git/peilin-wang-git.github.io/raw/main/assets/img/paper-reading-1-5.jpg)
