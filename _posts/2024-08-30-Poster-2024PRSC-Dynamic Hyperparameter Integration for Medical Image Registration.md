@@ -22,5 +22,6 @@ Preliminary experiments using the open-source OASIS two-dimensional (2D) dataset
 ## Conclusion
 These preliminary results highlight the strong performance of DyHIMorph, effectively utilizing the inter-relationships among loss functions and achieving better performance without the need for extensive fine-tuning. This work significantly reduces the time required for hyperparameter optimization. Future work will involve testing DyHIMorph on 3D datasets, which is expected to further decrease the fine-tuning time compared with traditional deep-learning registration algorithms. Additionally, DyHIMorph has the potential to address a broader spectrum of multi-task learning challenges beyond medical image
 
-
+## PRSC Introduction
+The 2nd PolyU Research Student Conference (PRSC 2024) is the flagship research student conference, providing Research Postgraduate (RPg) students and the students of College of Undergraduate Researchers and Innovators (CURI) in PolyU with the opportunity to present their research work and findings. PRSC also provides an excellent opportunity for students from different disciplines to network with peers, and establishes a collaborative and supportive research community at PolyU.
 
