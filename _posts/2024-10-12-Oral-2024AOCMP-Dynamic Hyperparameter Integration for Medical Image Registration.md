@@ -22,6 +22,8 @@ Preliminary experiments using the open-source OASIS two-dimensional (2D) dataset
 ## Conclusion
 These preliminary results highlight the strong performance of DyHIMorph, effectively utilizing the inter-relationships among loss functions and achieving better performance without the need for extensive fine-tuning. This work significantly reduces the time required for hyperparameter optimization. Future work will involve testing DyHIMorph on 3D datasets, which is expected to further decrease the fine-tuning time compared with traditional deep-learning registration algorithms. Additionally, DyHIMorph has the potential to address a broader spectrum of multi-task learning challenges beyond medical image
 
-## PRSC Introduction
-The 2nd PolyU Research Student Conference (PRSC 2024) is the flagship research student conference, providing Research Postgraduate (RPg) students and the students of College of Undergraduate Researchers and Innovators (CURI) in PolyU with the opportunity to present their research work and findings. PRSC also provides an excellent opportunity for students from different disciplines to network with peers, and establishes a collaborative and supportive research community at PolyU.
+## AOCMP Introduction
+Asia-Oceania Congress on Medical Physics (AOCMP) is Organized annually in various countries in the Asia-Oceania Federation of Organizations for Medical Physics (AFOMP) region to give a scientific platform to share, upgrade, and enhance medical physics knowledge worldwide.
+
+Asia-Oceania Congress on Medical Physics (AOCMP) series were held respectively in Malaysia (Kuala Lumpur 2004 and 2018, Penang 2024), Thailand(Bangkok 2001 and 2016, Chiang Mai 2009 and 2012, Phuket 2020), South Korea(Gyeongju 2002, Seoul 2006), Australia (Sydney 2003, Perth 2019), Japan(Kyoto 2005, Fukuoka 2011), China (Huangshan 2007, Xi’an 2015), Vietnam (Ho Chi Minh City 2008 and 2014), China (Taipei 2010 and 2022), Singapore (Singapore 2013), India (Jaipur 2017)and Bangladesh (Cox’s Bazar 2021).
 
