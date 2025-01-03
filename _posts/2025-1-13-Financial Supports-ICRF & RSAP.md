@@ -2,8 +2,8 @@
 layout: post
 title: "Congratulations! I obtained the PolyU financial supports of international research collaboration on 31 December 2024"
 author: "Peilin Wang"
-categories: RP
-tags: [RP,documentation]
+categories: CV
+tags: [CV,documentation]
 image: issues6-1.jpeg
 ---
 
