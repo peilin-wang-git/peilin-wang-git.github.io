@@ -23,4 +23,4 @@ The financial allowance is HK$55,000.
 ## My research collaboration schedule
 I've successfully connected a well-known professor in Cornell University whose research interest lies on developing new technology and extending application of medical image analysis, whcih matches my research topic exactly. If anthing goes smoothly, I will go to Cornell University at May of this year.
 
-## Happy new year you gays!
+## Happy new year you guys!
