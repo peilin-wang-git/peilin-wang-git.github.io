@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Congratulations! My research project has been accepted in 2025ISMRM Digital Poster Discussion on 17 May 2024"
+title: "Congratulations! My research project has been accepted in 2025ISMRM Digital Poster Discussion on 17 May 2025"
 author: "Peilin Wang"
 categories: RI
 tags: [RI,documentation]
